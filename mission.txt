@@ -1,0 +1,2 @@
+Toàn: thiết kế menu, hình ảnh, âm thanh, giao diện
+Hiển: tạo object nhân vật, enemy, cơ chế di chuyển
